@@ -1,3 +1,8 @@
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-336791?logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-Measures-2563EB)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 # Olist E-commerce Analytics Dashboard
 
 End-to-end **PostgreSQL + Power BI + DAX** portfolio project analyzing customer behavior, revenue concentration, satisfaction, and logistics efficiency using the **Olist Brazilian e-commerce dataset**.
