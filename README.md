@@ -7,6 +7,15 @@
 
 End-to-end **PostgreSQL + Power BI + DAX** portfolio project analyzing customer behavior, revenue concentration, satisfaction, and logistics efficiency using the **Olist Brazilian e-commerce dataset**.
 
+## Key Insights
+
+- **São Paulo (SP)** is the largest revenue market.
+- **Rio de Janeiro (RJ)** combines strong revenue contribution with above-average repeat rate.
+- **Repeat customers represent only 3.13% of customers but generate 5.82% of revenue.**
+- Repeat customers are **1.86× more valuable** than their share of the customer base suggests.
+- **Health & Beauty** is the highest-revenue category.
+- Categories with **high freight burden and lower review scores** should be prioritized for logistics improvements.
+
 ## Project Overview
 
 This project combines SQL analysis with interactive Power BI reporting to answer four business questions:
@@ -96,6 +105,17 @@ This suggests retention is a disproportionately valuable growth lever.
 - `Fahad_K_Olist_Ecommerce_Analytics_Dashboard.pdf` — exported portfolio report
 
 ---
+
+## Results
+
+This project demonstrates the ability to:
+
+- Extract and aggregate data with PostgreSQL
+- Build business metrics using DAX
+- Design multi-page analytical dashboards
+- Identify revenue concentration and retention opportunities
+- Connect customer satisfaction with logistics costs
+- Communicate insights for non-technical stakeholders
 
 ## What I Learned
 
